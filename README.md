@@ -15,3 +15,9 @@ https://public.tableau.com/views/STATISTYCSpetsUSA/TOTAL_stats?:language=en-US&p
 - Если открыть сравнение собак и кошек по штатам, то убеждаемся что больше домохозяйств предпочитают собак, но при этом доля кошек значительно превосходит собак.
 ![image](https://github.com/KonstantinBatrakov/TABLEAU-projects/assets/118470335/b6659450-47d6-4533-a3fd-964e0eb22692)
 
+2. Визуализация змелятресений с начала 1900 до 2014г.
+https://public.tableau.com/views/Earthquake_17068107975950/Dashboard2?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link
+Здесь представлен дашборд в котором можно посомтреть детально все землятресения по годам на карте и справа отображается не более 10 ТОП землятресений с амплитудой более 8,0 из выбранного периода.
+![image](https://github.com/KonstantinBatrakov/TABLEAU-projects/assets/118470335/8fea4481-d913-49a2-9fdd-f01c7aaa2244)
+Так же можно используя ползунок выбирать землятресения по магнитуде.
+
