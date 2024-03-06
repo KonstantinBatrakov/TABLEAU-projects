@@ -21,3 +21,10 @@ https://public.tableau.com/views/Earthquake_17068107975950/Dashboard2?:language=
 ![image](https://github.com/KonstantinBatrakov/TABLEAU-projects/assets/118470335/8fea4481-d913-49a2-9fdd-f01c7aaa2244)
 Так же можно используя ползунок выбирать землятресения по магнитуде.
 
+3. Моя рабочая версия для обучения по данным Sales для USA.
+Здесь я изучил и построил различные визуализации на листах:
+- LOD (1. LOD_include, 2. LOD_exclude, 3, LOD FIXED, 4. First_buy)
+- SET (5. Fixed Set, 6. Dynamic Set, 7. Dynamic Set 2, 8. Dynamic Set 3, 9. Выполнение плана, 10. Динамика по)
+- Parameter (11.1 TOP ALL, 11.2 TOP LIST, 11.3 TOP RANGE, 12. Sales of cat, reg, seg. 13. Parameters as Measures, 14. Delivery distribution, 15. Parameter as KPI, 16.1 MAP, 16.2 Bar_chart, 19. Dashboard(map_vs_barchart))
+- SET action (20.1 Profit by subcast, 20.2 Sales by region, 20.0 Dashboard_1, 20.5 Sales_vs_Profit by cat, 21.1 MAP, 21.1 tree_MAP, 22. DrillDown bar_chart, 23. DrillDown treemap, 24.1 Sales dynamics, 24.2 Profit seasonality, 24.3 Dasboard for date in/out)
+https://public.tableau.com/views/ExampleofSales/24_3Dasboardfordateinout?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link
