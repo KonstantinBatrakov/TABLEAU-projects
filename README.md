@@ -6,7 +6,7 @@
 Собраны 2 дашборда
 - TOTAL_stats
 - DOGvsCAT
-https://public.tableau.com/views/STATISTYCSpetsUSA/DOGvsCAT?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link
+https://public.tableau.com/views/STATISTYCSpetsUSA/TOTAL_stats?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link
 - Собранные дашборды показывают общую статистику по штатам с визуализацией на карте. Здесь выделяются 4 штата с наибольшим кол-вом СОБАК+КОШЕК (California, Texas, Florida, New York). И на карте отображены сводные данные по кол-ву домохозяйств с питомцами, доля их от общего кол-ва и цветом выделяется штаты с преобладющим количеством питомцев.
 - Здесь выделяются южные штаты, в них значительное превосходство домохозяйств предпочитающиъх собак, чем кошек (домохозяйства предпочитают собак и собак в абсолютном выражении больше). Северные же наоборот. Отмечу, что возможно это историческое наследие, так как в южных штатах более развито сельское хозяйство и животноводство.
 ![image](https://github.com/KonstantinBatrakov/TABLEAU-projects/assets/118470335/5808002f-f33e-47ec-b3aa-30607364b221)
